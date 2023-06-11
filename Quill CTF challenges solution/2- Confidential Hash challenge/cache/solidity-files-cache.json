@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\Magoos\\Web3_projects\\quilctfs\\confidentialhash\\contracts\\confidentialhash.sol": {
+      "lastModificationDate": 1686437274586,
+      "contentHash": "2953b0d486efb6eab57e8e7560fb725d",
+      "sourceName": "contracts/confidentialhash.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.7"
+      ],
+      "artifacts": [
+        "Confidential"
+      ]
+    }
+  }
+}
