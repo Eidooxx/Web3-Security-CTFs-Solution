@@ -1,0 +1,75 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\Magoos\\Web3_projects\\quilctfs\\vipbank\\contracts\\attackvipbank.sol": {
+      "lastModificationDate": 1686601677042,
+      "contentHash": "a25fd9ff57e182f33250c43e97d49b9a",
+      "sourceName": "contracts/attackvipbank.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.7"
+      ],
+      "artifacts": [
+        "ATTACK_VIP_BANK"
+      ]
+    },
+    "C:\\Users\\Magoos\\Web3_projects\\quilctfs\\vipbank\\contracts\\vipbank.sol": {
+      "lastModificationDate": 1686600962948,
+      "contentHash": "6fcf5db1909df6d5c87618a58113cebe",
+      "sourceName": "contracts/vipbank.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.7"
+      ],
+      "artifacts": [
+        "VIP_Bank"
+      ]
+    }
+  }
+}
