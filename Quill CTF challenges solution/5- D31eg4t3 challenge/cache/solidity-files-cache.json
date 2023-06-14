@@ -1,0 +1,77 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\Magoos\\Web3_projects\\quilctfs\\delegate\\contracts\\attackdelegate.sol": {
+      "lastModificationDate": 1686783956250,
+      "contentHash": "60783fa8d4c996865d9d351799ffe3ba",
+      "sourceName": "contracts/attackdelegate.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./delegate.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "AttackD31eg4t3"
+      ]
+    },
+    "C:\\Users\\Magoos\\Web3_projects\\quilctfs\\delegate\\contracts\\delegate.sol": {
+      "lastModificationDate": 1686768651702,
+      "contentHash": "b174998cf2a4c3c0baf1fc38205d0102",
+      "sourceName": "contracts/delegate.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "D31eg4t3"
+      ]
+    }
+  }
+}
