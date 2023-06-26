@@ -10,4 +10,10 @@ I will share here POCs of many web3 security challenges (CTFs).
 | 5- D31eg4t3 | [Article](https://eidoox.hashnode.dev/quillctfs-5-d31eg4t3-solidity-security)|
 | 6- Pelusa | [Article](https://eidoox.hashnode.dev/quillctfs-6-pelusa-solidity-security)|
 
+# Calyptus challenges
+| **Challenge**  |  **Detailed solution** |
+| ------------- | ------------- |
+| 1- Security challenges  | [Article](https://eidoox.hashnode.dev/quillctfs-1-road-closed-solidity-security)|
+
+
 
