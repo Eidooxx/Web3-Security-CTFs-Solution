@@ -13,7 +13,7 @@ I will share here POCs of many web3 security challenges (CTFs).
 # Calyptus challenges
 | **Challenge**  |  **Detailed solution** |
 | ------------- | ------------- |
-| 1- Security challenges  | [Article](https://eidoox.hashnode.dev/quillctfs-1-road-closed-solidity-security)|
+| 1- Security challenges  | [Article](https://eidoox.hashnode.dev/calyptus-challenges-solution-smart-contracts-security-challenges)|
 
 
 
